@@ -40,19 +40,17 @@ export const products = [
         date: 1254789563,
         bestseller: true
     },
-    {
         {
             _id: "aaaaa",
             name: "Women Round Neck Cotton Top",
             description: "A lightweight",
             price: 100,
             image: [p_img2_1,p_img2_2,p_img2_3,p_img2_4],
-            category: "Women",
+            category: "Men",
             subcategory: "Topwear",
             sizes: ["S","M","L"],
             date: 1254789563,
             bestseller: true
         }
-    }
 
 ]
