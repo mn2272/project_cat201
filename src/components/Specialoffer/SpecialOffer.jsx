@@ -1,24 +1,23 @@
 import React from "react";
 import "./specialoffer.css";
 
-// Predefined array of image paths
-const imagePaths = [
-  "./assets/banner/banner-1.png",
-  "./assets/banner/banner-2.png",
-  "./assets/banner/banner-3.png",
-];
-
 const Specialoffer = () => {
   return (
-    <section className="annoucement">
-      <div className="container banner-images">
-        {imagePaths.map((path, index) => (
-          <div key={index} className={`banner-img${index + 1} banner`}>
-            <img src={path} alt={`banner-${index + 1}`} />
+    <>
+      <section className="annoucement">
+        <div className="container banner-images">
+          <div className="banner-img1 banner">
+            <img src="./assets/banner/banner-1.png" alt="banner-image" />
           </div>
-        ))}
-      </div>
-    </section>
+          <div className="banner-img2 banner">
+            <img src="./assets/banner/banner-2.png" alt="banner-image" />
+          </div>
+          <div className="banner-img3 banner">
+            <img src="./assets/banner/banner-3.jpg" alt="banner-image" />
+          </div>
+        </div>
+      </section>
+    </>
   );
 };
 
