@@ -44,16 +44,16 @@ const About = () => {
         </div>
         <div className='flex flex-col md:flex-row text-sm mb-20'>
             <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
-                <b>Muhammad Afiq Bin Saiful Annuar (23300752)</b>
-                <p className='text-gray-600'>We ensure every piece meets the highest standards of craftsmanship and authenticity.</p>
-            </div>
-            <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
                 <b>Muhammad Nayeem Bin Muhammad (23300658)</b>
-                <p className='text-gray-600'>Shop effortlessly from anywhere with our user-friendly e-commerce platform.</p>
+                <p className='text-gray-600'>Develops the code base, ensures the application's functionality, and manages the deployment process to make the website live and fully operational.</p>
             </div>
             <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
                 <b>Syaza Lina Muhammad Ridzwan (23304538)</b>
-                <p className='text-gray-600'>Our team is dedicated to providing personalized support and a seamless shopping experience.</p>
+                <p className='text-gray-600'>Designs and structures the website layout, ensuring it is user-friendly, visually appealing, and fully functional across various devices. Lina also conducts comprehensive testing to verify seamless performance.</p>
+            </div>
+            <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
+                <b>Muhammad Afiq Bin Saiful Annuar (23300752)</b>
+                <p className='text-gray-600'>Creates detailed reports outlining the project's objectives, processes, and outcomes. Afiq is also responsible for compiling and organizing all necessary documentation and presenting the final report.</p>
             </div>
         </div>
 
