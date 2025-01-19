@@ -84,8 +84,8 @@ const Product = () => {
                     <p className='border px-5 py-3 text-sm'>Reviews (122)</p>
                 </div>
                 <div className='flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500'>
-                    <p>Product description tulis panjang</p>
-                    <p>Product description tambahan</p>
+                    <p>Our jewelry collection is designed to captivate the senses with its luxurious feel, dazzling aesthetics, and vibrant color palette. The earrings are lightweight yet sturdy, offering a comfortable fit for all-day wear, with finishes ranging from polished gold to shimmering silver. They catch the light beautifully, adding a radiant glow to your ensemble.</p>
+                    <p>The necklaces feature smooth, finely crafted chains that drape elegantly across the neckline, paired with pendants that showcase intricate designs and sparkling stones. Rings in our collection boast a perfect balance of weight and texture, with polished surfaces and detailed engravings that exude sophistication. The bracelets are sleek and versatile, available in warm gold, cool silver, and rose gold hues, with designs that range from minimalist to ornate, making each piece a true visual and tactile delight.</p>
 
                 </div>
         </div>

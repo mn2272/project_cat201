@@ -14,9 +14,9 @@ const Contact = () => {
         <img className='w-full md:max-w-[480px]' src={assets.contact_img} alt=""/>
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
-          <p className='text-gray-500'>Address</p>
-          <p classname='text-gray-500'>email and pone number</p>
-          <p></p>
+          <p className='text-gray-500'>No 69, Light Road, <br/> 10040 Sungai Dua, Georgetown, <br/>Penang, Malaysia. </p>
+          <p classname='text-gray-500'>Customer Service<br/>+60108668125</p>
+          <p classname='text-gray-500'>nayeem@customer.lynaluxe.com</p>
           <p></p>
         </div>
       </div>

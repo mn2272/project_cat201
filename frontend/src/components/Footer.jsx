@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt=""/>
             <p className='w-full md:w-2/3 text-gray-600'>
-                Loem sindrem
+            Timeless Elegance and Quality Craftsmanship – Jewelry That Speaks to Your Style.
             </p>
         </div>
 
@@ -25,14 +25,14 @@ const Footer = () => {
         <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
-                <li>+60108668125</li>
-                <li>nayeem220702@gmail.com,jgn email sy please</li>
+                <li>Customer Service- +60108668125</li>
+                <li>nayeem@customer.lynaluxe.com</li>
             </ul>
         </div>
       </div>
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 25' CAT201 - All Right Reserve, but we as developer are not alright</p>
+        <p className='py-5 text-sm text-center'> ©Copyright Lyna Store Luxe - CAT201 25'- All Right Reserved</p>
       </div>
     </div>
   )
